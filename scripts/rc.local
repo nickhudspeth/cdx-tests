@@ -11,5 +11,6 @@
 #
 # By default this script does nothing.
 
-./home/cdx/cdx-tests/scripts/cdx-initscript.sh
+cd /home/cdx/Desktop/cdx-tests
+git pull --all
 exit 0
