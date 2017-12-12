@@ -11,6 +11,7 @@
 #
 # By default this script does nothing.
 
-cd /home/cdx/Desktop/cdx-tests
-git pull --all
+cd /home/cdx/Desktop
+rm -rf cdx-tests
+git clone https://github.com/nickhudspeth/cdx-tests.git
 exit 0
