@@ -13,5 +13,5 @@
 #                    override the defaults in /lib/init/init-d-script.
 ### END INIT INFO
 #!/bin/bash
-cd ~/Desktop/cdx-tests
+cd /home/cdx/Desktop/cdx-tests
 git pull --all
